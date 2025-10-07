@@ -55,24 +55,29 @@ Compute daily returns, volatility, and Sharpe ratios
 Generate plots and metrics saved under /week4_outputs/
 
 ### EDA Highlights
-Metric	AAPL	MSFT	NVDA
-Annualized Return	0.23	0.26	0.49
-Annualized Volatility	0.21	0.22	0.36
-Sharpe Ratio	1.00	1.09	1.31
+
+| Metric | AAPL | MSFT | NVDA |
+|:-------|------:|------:|------:|
+| **Annualized Return** | 0.23 | 0.26 | **0.49** |
+| **Annualized Volatility** | 0.21 | 0.22 | **0.36** |
+| **Sharpe Ratio** | 1.00 | 1.09 | **1.31** |
+
 
 - NVDA demonstrates the highest return and Sharpe ratio, reflecting its strong performance during the AI-driven cycle.
 - Correlations between daily returns (≈0.65–0.85) indicate shared macro-tech exposure with limited but present diversification.
 - Volatility analysis reveals identifiable risk regimes, notably during COVID-19 and 2022–2023 rate cycles.
 
 ### Key Outputs
-File	Description
-prices_levels.png	Adjusted close prices for AAPL, MSFT, and NVDA
-prices_normalized.png	Normalized price index (100 = start of 2019)
-daily_returns.png	Daily percentage returns across all stocks
-rolling_vol_21d.png	21-day rolling volatility (annualized)
-correlation_matrix.png	Heatmap of correlations among daily returns
-metrics.csv	Annualized return, volatility, and Sharpe summary
-correlations.csv	Pairwise correlation matrix values
+
+| File | Description |
+|:------|:-------------|
+| **prices_levels.png** | Adjusted close prices for AAPL, MSFT, and NVDA |
+| **prices_normalized.png** | Normalized price index (100 = start of 2019) |
+| **daily_returns.png** | Daily percentage returns across all stocks |
+| **rolling_vol_21d.png** | 21-day rolling volatility (annualized) |
+| **correlation_matrix.png** | Heatmap of correlations among daily returns |
+| **metrics.csv** | Annualized return, volatility, and Sharpe summary |
+| **correlations.csv** | Pairwise correlation matrix values |
 
 ### Research Report
 Week 4 Term Project Checkpoint A – Research Report (PDF)
