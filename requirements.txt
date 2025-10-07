@@ -1,0 +1,10 @@
+yfinance
+pandas
+numpy
+matplotlib
+jupyter
+# Optional libraries for later stages
+fredapi
+pytrends
+requests
+praw
