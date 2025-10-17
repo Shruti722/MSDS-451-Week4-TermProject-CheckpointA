@@ -1,6 +1,6 @@
 # MSDS-451-Week4-TermProject-CheckpointA
 
-## 📘 Overview
+##  Overview
 This repository contains all materials for **Week 4 – Term Project Checkpoint A** of the *MSDS 451: Programming for Data Science* course.  
 The project focuses on designing an **actively managed exchange-traded fund (ETF)** targeting large-cap technology companies — **Apple (AAPL)**, **Microsoft (MSFT)**, and **NVIDIA (NVDA)** — which are influenced by innovation cycles, monetary policy, and investor sentiment surrounding AI and cloud technologies.
 
