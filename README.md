@@ -8,19 +8,19 @@ The ETF is built around a **data-driven, rule-based framework** that combines tr
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 ```
 │
-├── 📄 README.md
-├── 📄 requirements.txt
+├──  README.md
+├──  requirements.txt
 │
-├── 📂 reports/
+├──  reports/
 │ └── Week4_Term_Project_CheckpointA_Research_Report_ShrutiKalaskar.pdf
 │
-├── 📂 notebooks/
+├──  notebooks/
 │ └── quick_eda.ipynb
 │
-├── 📂 week4_outputs/
+├──  week4_outputs/
 │ ├── prices_levels.png
 │ ├── prices_normalized.png
 │ ├── daily_returns.png
